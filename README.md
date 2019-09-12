@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.maxlove.top/my-github-repos)
-* [世界，你好！](http://www.maxlove.top/hello-solo)
+* [我在 GitHub 上的开源项目](http://www.ikun.pro/my-github-repos)
+* [世界，你好！](http://www.ikun.pro/hello-solo)
 
 
 
